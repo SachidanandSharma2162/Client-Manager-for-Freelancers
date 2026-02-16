@@ -107,4 +107,7 @@ npm run dev
 A huge thanks to everyone who contributed to this project!
 https://github.com/ruchika123yadav
 
+Deployment:
+https://client-manager-for-freelancers.onrender.com/
+
 Made with ❤️ by Freelancers, for Freelancers.
